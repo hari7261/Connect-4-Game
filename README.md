@@ -54,10 +54,12 @@ This web application hosts a classic two-player strategy game called Connect Fou
 
 ## Screenshots
 
-![Screenshot 1](image.png) <!-- Replace with your screenshot link -->
+![first image](image.png)
+ <!-- Replace with your screenshot link -->
 *Screenshot 1 of game*
 
-![Screenshot 2](image2.png) <!-- Replace with your screenshot link -->
+![second image](image2.png)
+ <!-- Replace with your screenshot link -->
 *Screenshott 2 of game*
 
 1. Clone the repository:
