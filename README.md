@@ -1,4 +1,5 @@
 # Connect Four Web Game
+[Connect 4 Gamme](https://hari7261.github.io/Connect-4-Game/) - click here to play game .
 
 A classic two-player strategy game implemented as a web application. Play against the computer or challenge a friend to Connect Four!
 
