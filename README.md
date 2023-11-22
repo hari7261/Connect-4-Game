@@ -62,7 +62,7 @@ This web application hosts a classic two-player strategy game called Connect Fou
 1. Clone the repository:
 
 
-## git clone https://github.com/your-username/connect-four.git\
+## git clone https://github.com/hari7261/Connect-4-Game.git\
 
 
 ## Important Code
