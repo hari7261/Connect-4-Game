@@ -1,4 +1,4 @@
-# Connect - 4 (Web Game)
+# Connect Four Web Game
 
 A classic two-player strategy game implemented as a web application. Play against the computer or challenge a friend to Connect Four!
 
@@ -32,22 +32,6 @@ This web application hosts a classic two-player strategy game called Connect Fou
   - **Right Arrow:** Move the colored disc to the right.
   - **Down Arrow:** Drop the colored disc in the targeted column.
 
-## Important Code
-
-### Favicon and Stylesheet Linking
-
-```html
-<!-- Favicon -->
-<link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicon/apple-touch-icon.png" />
-<link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon/favicon-32x32.png" />
-<link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon/favicon-16x16.png" />
-<link rel="shortcut icon" href="assets/images/favicon/favicon.ico" type="image/x-icon">
-
-<!-- Link to the CSS file -->
-<link rel="stylesheet" href="assets/css/style.css">
-
- ##Developer: Provide feedback or get in touch with the developer.
-
 ## Technologies Used
 
 - HTML5
@@ -67,18 +51,30 @@ This web application hosts a classic two-player strategy game called Connect Fou
 - Use the mouse to interact with the game.
 - Arrow keys for keyboard navigation.
 
-## Getting Started
+## Screenshots
+
+![Screenshot 1](image.png) <!-- Replace with your screenshot link -->
+*Caption for Screenshot 1.*
+
+![Screenshot 2](image2.png) <!-- Replace with your screenshot link -->
+*Caption for Screenshot 2.*
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/your-username/connect-four.git
 
-## Screenshots
+## git clone https://github.com/your-username/connect-four.git\
 
-![Screenshot 1](https://i.imgur.com/your-image-link1.png)
-*Caption for Screenshot 1.*
 
-![Screenshot 2](https://i.imgur.com/your-image-link2.png)
-*Caption for Screenshot 2.*
+## Important Code
 
+### Favicon and Stylesheet Linking
+
+```html
+<!-- Favicon -->
+<link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicon/apple-touch-icon.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon/favicon-16x16.png" />
+<link rel="shortcut icon" href="assets/images/favicon/favicon.ico" type="image/x-icon">
+
+<!-- Link to the CSS file -->
+<link rel="stylesheet" href="assets/css/style.css">
